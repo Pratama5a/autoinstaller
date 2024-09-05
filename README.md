@@ -10,4 +10,4 @@ https://wa.me/6285707026043
 Command Run Install Panel & Theme
 
 
-bash <(curl )
+bash <(curl https://raw.githubusercontent.com/Pratama5a/autoinstaller/main/install.sh)
